@@ -1,0 +1,3 @@
+fastapi
+guvicorn
+jinja2
